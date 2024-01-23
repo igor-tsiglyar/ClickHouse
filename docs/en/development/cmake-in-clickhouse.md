@@ -136,13 +136,13 @@ cmake .. \
 <td></td>
 </tr>
 <tr>
-<td><a name="enable-clickhouse-server"></a><a href="https://github.com/clickhouse/clickhouse/blob/master/programs/CMakeLists.txt#L12" rel="external nofollow noreferrer" target="_blank"><code class="syntax">ENABLE_CLICKHOUSE_SERVER</code></a></td>
+<td><a href="https://github.com/clickhouse/clickhouse/blob/master/programs/CMakeLists.txt#L12" rel="external nofollow noreferrer" target="_blank"><code class="syntax">ENABLE_CLICKHOUSE_SERVER</code></a><a name="enable-Clickhouse-Server"></a></td>
 <td><code class="syntax">ENABLE_CLICKHOUSE_ALL</code></td>
 <td>Server mode (main mode)</td>
 <td></td>
 </tr>
 <tr>
-<td><a name="enable-clickhouse-static-files-disk-uploader"></a><a href="https://github.com/clickhouse/clickhouse/blob/master/programs/CMakeLists.txt#L52" rel="external nofollow noreferrer" target="_blank"><code class="syntax">ENABLE_CLICKHOUSE_STATIC_FILES_DISK_UPLOADER</code></a></td>
+<td><a name="Enable.Clickhouse.Static.Files.Disk.Uploader"></a><a href="https://github.com/clickhouse/clickhouse/blob/master/programs/CMakeLists.txt#L52" rel="external nofollow noreferrer" target="_blank"><code class="syntax">ENABLE_CLICKHOUSE_STATIC_FILES_DISK_UPLOADER</code></a></td>
 <td><code class="syntax">ENABLE_CLICKHOUSE_ALL</code></td>
 <td>A tool to export table data files to be later put to a static files web server</td>
 <td></td>
